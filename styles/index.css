@@ -1,0 +1,36 @@
+/* *{ margin: 0; padding: 0;} */
+.mainContainer{
+    width:100vw;
+    height:auto;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    height: 30vw;
+    width: 60vw;
+    border: 1px solid black;
+}
+.container>.car-header{
+    height:20%;
+}
+.card-icon{
+    height:70%;
+}
+.card-label{
+    height:30%;
+    color:white;
+    text-align: center;
+}
+.card-container{
+    height: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    height:100%;
+    width:30%;
+    background-color: red;
+    border-radius: 10px;
+}
