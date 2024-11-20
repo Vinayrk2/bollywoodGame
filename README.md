@@ -6,4 +6,4 @@ A static web-based game developed using HTML, CSS, JavaScript, jQuery, and JSON 
 
 [Click here to play the game](https://movie-guess.netlify.app/)
 
-Remember to replace `your-game-link-here` with the actual URL of your game. Enjoy! 🎥🍿
+ Enjoy! 🎥🍿
